@@ -1,5 +1,5 @@
 
-function passwordConf{
+function passwordConf(){
     let password1 = document.getElementById("pw1").value;
     let password2 = document.getElementById("pw2").value;
 
